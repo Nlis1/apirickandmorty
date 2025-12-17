@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+.col{
+    padding-bottom: 20px;
+}
+
+.card{
+    align-items: center;
+}
+
+h5{
+    text-align: center;
+}
+
+.menu-content{
+    display: flex;
+}
